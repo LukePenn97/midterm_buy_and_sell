@@ -1,9 +1,24 @@
 ### User Stories
+
 - A _user story_ describes how users will interact with your application
 - They have the form: As a ______, I want to ______, because ______.
-- eg. As a _user_, I want to _be able to save posts_, because _I want to review them later_.
-- User stories can also be negated: As a _____, I shouldn't be able to ______, because _____.
-- eg. As a _user_, I shouldn't be able to _edit other users posts_, because _I don't own those posts_.
+
+BREAD
+
+BROWSE - As a user, I want to be able to browse featured items, because I want to know what         is featured today.
+As a user, I want to be able to search with parameters because I only like cats.
+
+READ - As a user, I want to be able to look at a specific item to see its details.
+
+EDIT - As an admin, I want to be able to edit previous posts because I might have new info or make a mistake.
+As an admin, I want to be able to mark items as sold when they are sold because they are sold.
+
+ADD - As an admin, I want to be able to add new listings.
+As a user, I want to be able to favourite listings that i am interested in.
+As a user or admin, I want to be able to message other users or admins to ask about listings, on site or on email/text.
+
+DELETE As an admin, I want to be able to delete posts.
+
 
 ### User Scenarios
 - A _user scenario_ is a syntactic alternative to user stories
